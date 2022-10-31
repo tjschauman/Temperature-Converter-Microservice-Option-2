@@ -3,7 +3,7 @@ Microservice: Temperature Converter Option 2
 
 This is a microservice that uses HTTP requests and responses as a communication pipeline.
 
-The server is found in server.js and runs locally on Port4000. The server pulls three variables from the temp.txt file: current temperature unit, current temperature, and the desired temperature unit. The server takes the values and calculates the desired temperature unit and posts the value to the localhost page. The client.js can sends a request for the value and then puts it in a new text file (convertedtemp). A UML diagram detailing the process is below:
+The server is found in server.js and runs locally on localhost:4000. The server pulls three variables from the temp.txt file: current temperature unit, current temperature, and the desired temperature unit. The server takes the values and calculates the desired temperature unit and posts the value to the localhost page. The client.js can sends a request for the value and then puts it in a new text file (convertedtemp). A UML diagram detailing the process is below:
 
 ![image](https://user-images.githubusercontent.com/86200364/198917524-9bf38be9-e500-4d51-8091-1b0c80920538.png)
 
