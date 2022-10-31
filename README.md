@@ -11,6 +11,7 @@ To run the program, download all files in zip folder, extract them and open in V
 
 Open a terminal in the main folder:
 (1) run 'npm init -y'
+
 (2) run 'npm install'
 
 You should now have the package-lock.json and package.json files. 
