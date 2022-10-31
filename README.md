@@ -30,3 +30,5 @@ Navigate to localhost:4000 in your web browser, it will now run the code to grab
 Open new terminal and run 'node client.js'
 
 A 'convertedtemp.txt' has been created and contains converted value.
+
+https://media.oregonstate.edu/media/t/1_4rv3ew5o
