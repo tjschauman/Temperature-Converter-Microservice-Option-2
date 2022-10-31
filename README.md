@@ -10,6 +10,7 @@ The server is found in server.js and runs locally on Port4000. The server pulls 
 To run the program, download all files in zip folder, extract them and open in VS Code. 
 
 Open a terminal in the main folder:
+
 (1) run 'npm init -y'
 
 (2) run 'npm install'
